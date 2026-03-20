@@ -1,4 +1,4 @@
-I had a lot of time during COVID in 2020 to attempt the creation some Munsell gpl palettes for QGIS, first for the standard soil set we use in archaeology, and ultimately for all Munsell colors.
+I had a lot of time during COVID in 2020 to attempt the creation of some Munsell gpl palettes for QGIS, first for the standard soil set we use in archaeology, and ultimately for all Munsell colors.
 Since I'm working with them again, I thought I'd share for anyone interested.
 
 The conversion is based on a paper by Paul Centore: 2013. Conversions Between the Munsell and sRGB Colour Systems. I don't have info on the publication/journal it came from.
